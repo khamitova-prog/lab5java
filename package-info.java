@@ -1,7 +1,4 @@
 /**
- * пакет с различными типами исключений
- * @see exceptions.FileException
- * @see exceptions.CommandException
- * @see exceptions.InvalidDataException
+ * пакет для работы с пользовательским вводом и выводом
  */
-package exceptions;
+package io;
