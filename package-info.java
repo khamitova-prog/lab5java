@@ -1,4 +1,7 @@
 /**
- * Пакет содержит команды управления коллекцией
+ * пакет с различными типами исключений
+ * @see exceptions.FileException
+ * @see exceptions.CommandException
+ * @see exceptions.InvalidDataException
  */
-package commands;
+package exceptions;
